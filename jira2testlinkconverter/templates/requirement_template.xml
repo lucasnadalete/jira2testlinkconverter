@@ -1,0 +1,16 @@
+<requirement>
+    <docid><![CDATA[#KEY#]]></docid>
+    <title><![CDATA[#SUMMARY#]]></title>
+    <description><![CDATA[
+                    <p>Created:&nbsp;#CREATED#</p>
+                    <p>Updated:&nbsp;#UPDATED#</p>
+                    <p>FixVersion:&nbsp;#FIXVERSION#</p>
+                    <p>Repoter:&nbsp;#REPORTER#</p>
+                    <p>Link:&nbsp;<a href="#LINK#">#LINK#</a></p>
+                    <p>Description:</p>
+                    <p>#DESCRIPTION#</p>]]>
+    </description>
+    <status><![CDATA[F]]></status>
+    <type><![CDATA[2]]></type>
+    <expected_coverage><![CDATA[1]]></expected_coverage>
+</requirement>
