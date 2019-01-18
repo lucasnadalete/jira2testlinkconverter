@@ -9,7 +9,7 @@ docker pull bitnami/testlink:latest
 - Pre-requirements: Python 2.7+
 - The JIRA file must be exported in XML format using the following sample JQL in the Search for Issues JIRA feature.
 ```sql
-JQL:  project = "<project_name> and Sprint = "<spring_name>" and issuetype = Story
+JQL:  project = "<project_name> and Sprint = "<sprint_name>" and issuetype = Story
 ```
                 
 ## For Windows use:
